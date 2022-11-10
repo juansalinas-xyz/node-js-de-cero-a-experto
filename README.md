@@ -4,7 +4,7 @@ Repo de Laboratorio para NodeJs, estudio del ecosistema.
 
 **Tabla de contenidos**
 
-- [1. Fundamentos](#Fundamentos)
+- [Fundamentos](#Fundamentos)
 
 ## Fundamentos
 
